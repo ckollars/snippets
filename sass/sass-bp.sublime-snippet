@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@include breakpoint($1) {
+  $2
+}
+]]></content>
+  <tabTrigger>bp</tabTrigger>
+  <scope>source.scss</scope>
+</snippet>

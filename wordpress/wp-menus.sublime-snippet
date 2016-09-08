@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+// Register nav menus
+register_nav_menus(array(
+  'menu_one' => 'Menu One',
+  'menu_two' => 'Menu Two'
+));
+]]></content>
+  <tabTrigger>menus</tabTrigger>
+  <scope>text.html</scope>
+  <description>Register Menus</description>
+</snippet>
